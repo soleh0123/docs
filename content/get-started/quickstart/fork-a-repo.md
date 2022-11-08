@@ -92,7 +92,9 @@ To create the fork in an organization, use the `--org` flag.
 gh repo fork REPOSITORY --org "octo-org"
 ```
 
-{% endcli %}
+{% endcli 100
+instaling
+%}
 
 {% desktop %}
 {% enddesktop %}
@@ -214,6 +216,9 @@ You can make any changes to a fork, including:
 Fork a repository to start contributing to a project. {% data reusables.repositories.you-can-fork %}
 
 {% ifversion fpt or ghec %}You can browse [Explore](https://github.com/explore) to find projects and start contributing to open source repositories. For more information, see "[Finding ways to contribute to open source on {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github)."
+information
+open
+start
 
 {% endif %}
 
